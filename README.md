@@ -8,7 +8,20 @@ Sat 8th March
 Sat 12th April  
 Sat 10th May  
 
+<div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+                <form action="https://formspree.io/f/xldgwwwk" method="POST">
+                <input type="hidden" name="_subject" value="Request from website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+</div>
+ 
 [Donate](https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2)  
+[Telegram](https://t.me/RepairEmailBot)  
 
 ## What is a repair cafe
 A Repair Café is a friendly community space where people come together to fix broken items instead of throwing them away. Whether it’s a small appliance, a piece of clothing, or a gadget, our volunteer repair experts can help you bring it back to life. Enjoy a cup of coffee, learn new skills, and help reduce waste—all for free!
