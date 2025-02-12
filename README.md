@@ -22,7 +22,7 @@ Levenshulme
 Boggart Hole Clough (new!)
 
 ## Map
-<img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd" href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"/>
+<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd"/></a>
 
 ## Volunteer Area
 A section of useful links for volunteers  
