@@ -1,13 +1,12 @@
 # Chorlton Repair Cafe 
 
 Our repair cafe runs from 10-12 every second Saturday of the month.  
-We are at at [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7)
+We are at [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7)
 
 Dates for upcoming cafes:  
 Sat 8th March  
 Sat 12th April  
 Sat 10th May  
-
 
 [Email](mailto:chorltonrepaircafe@gmail.com)  
 [Donate](https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2)  
