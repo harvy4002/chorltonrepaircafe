@@ -19,6 +19,7 @@ The surrounding areas also have repair cafes.
 ## Map
 
 
-## Volunteers
+## Volunteer Area
+A section of useful links for volunteers  
 [Request equipment](https://docs.google.com/forms/d/e/1FAIpQLSf2jHupj9Mkbn7sAeEWeVpSFq8k2gEWA8VpugQOtgPU2unvUA/viewform?usp=dialog)  
 [Sign out repair](https://docs.google.com/forms/d/e/1FAIpQLSdtTokbJxfZ_nQXuE32kcNeX8_-BXOmixyYRvb2rqa4V6uxtg/viewform?usp=dialog)  
