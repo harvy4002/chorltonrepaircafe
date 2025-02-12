@@ -1,10 +1,24 @@
 # Chorlton Repair Cafe 
 
-Dates for upcoming cafes:
+Our repair cafe runs from 10-12 every second Saturday of the month. We are at at [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7)
+
+Dates for upcoming cafes:  
+Sat 8th March  
+Sat 12th April  
+Sat 10th May  
+
+[Donate](https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2)  
+
+## What is a repair cafe
+A Repair Café is a friendly community space where people come together to fix broken items instead of throwing them away. Whether it’s a small appliance, a piece of clothing, or a gadget, our volunteer repair experts can help you bring it back to life. Enjoy a cup of coffee, learn new skills, and help reduce waste—all for free!
+
+## Other repair cafes
+The surrounding areas also have repair cafes.
 
 
-[Donate](https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2)
+## Map
 
-# Volunteers
-[Request equipment](https://docs.google.com/forms/d/e/1FAIpQLSf2jHupj9Mkbn7sAeEWeVpSFq8k2gEWA8VpugQOtgPU2unvUA/viewform?usp=dialog)
-[Sign out repair](https://docs.google.com/forms/d/e/1FAIpQLSf2jHupj9Mkbn7sAeEWeVpSFq8k2gEWA8VpugQOtgPU2unvUA/viewform?usp=dialog)
+
+## Volunteers
+[Request equipment](https://docs.google.com/forms/d/e/1FAIpQLSf2jHupj9Mkbn7sAeEWeVpSFq8k2gEWA8VpugQOtgPU2unvUA/viewform?usp=dialog)  
+[Sign out repair](https://docs.google.com/forms/d/e/1FAIpQLSdtTokbJxfZ_nQXuE32kcNeX8_-BXOmixyYRvb2rqa4V6uxtg/viewform?usp=dialog)  
