@@ -1,24 +1,30 @@
 # Chorlton Repair Cafe 
 
+<a href="mailto:chorltonrepaircafe@gmail.com"><img src="images/envelope.svg" alt="email" width="50" height="50"></a>
+<a href="https://www.facebook.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="facebook" width="50" height="50"></a>
+<a href="https://www.instagram.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="instagram" width="50" height="50"></a>
+<a href="https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2"><img src="images/coins.svg" alt="donate" width="50" height="50"></a>
+## What is a repair cafe
+A Repair Café is a friendly community space where people come together to fix broken items instead of throwing them away. Whether it's a small appliance, a piece of clothing, or a gadget, our volunteer repair experts can help you bring it back to life. Enjoy a cup of coffee, learn new skills, and help reduce waste—all for free!
+
 Our repair cafe runs from 10-12 every second Saturday of the month.  
 We are at [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7)
 
 Dates for upcoming cafes:  
-Sat 13th September
-Sat 11th October
-Sat 8th November
-Sat 13th December
-Sat 10th January
+Sat 13th September  
+Sat 11th October  
+Sat 8th November  
+Sat 13th December  
+Sat 10th January  
 
+## Photos from our repair cafe
+Here are some photos from our recent repair cafe sessions:
 
-<a href="mailto:chorltonrepaircafe@gmail.com"><img src="images/envelope.svg" alt="email" width="50" height="50"></a>
-<a href="https://www.facebook.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="facebook" width="50" height="50"></a>
-<a href="https://www.instagram.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="instagram" width="50" height="50"></a>
-
-<a href="https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2"><img src="images/coins.svg" alt="donate" width="50" height="50"></a>
-
-## What is a repair cafe
-A Repair Café is a friendly community space where people come together to fix broken items instead of throwing them away. Whether it’s a small appliance, a piece of clothing, or a gadget, our volunteer repair experts can help you bring it back to life. Enjoy a cup of coffee, learn new skills, and help reduce waste—all for free!
+<div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 5px; padding: 20px; margin: 20px 0;">
+  <img src="images/IMG-20250208-WA0000.jpg" alt="Repair Cafe Session" width="600" style="margin-bottom: 15px; display: block;">
+  <img src="images/IMG-20250208-WA0002.jpg" alt="Repair Cafe Volunteers" width="600" style="margin-bottom: 15px; display: block;">
+  <img src="images/IMG-20250208-WA0005.jpg" alt="Item Being Repaired" width="600" style="display: block;">
+</div>
 
 ## Other repair cafes
 The surrounding areas also have repair cafes. There is a website listing them here [Greater Manchester Repair Cafes](https://repaircafesgm.org.uk/)
