@@ -15,10 +15,10 @@ Sat 14th February
 Sat 14th March  
 Sat 11th April  
 Sat 9th May  
-Sat 13th June
-Sat 11th July
-Sat 8th August
-Sat 12th September
+Sat 13th June  
+Sat 11th July  
+Sat 8th August  
+Sat 12th September  
 
 ## Other repair cafes
 The surrounding areas also have repair cafes. There is a website listing them here [Greater Manchester Repair Cafes](https://repaircafesgm.org.uk/)
