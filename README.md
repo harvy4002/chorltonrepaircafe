@@ -11,20 +11,11 @@ Our repair cafe runs from 10-12 every second Saturday of the month.
 We are at [St Margaret's Community Centre, Brantingham Road, Chorlton, M21 0TT](https://maps.app.goo.gl/MsfsG1fik2Hui1vv7)
 
 Dates for upcoming cafes:  
-Sat 14th February  
-Sat 14th March  
-Sat 11th April  
-Sat 9th May  
 Sat 13th June  
 Sat 11th July  
 Sat 8th August  
 Sat 12th September  
-
-## Other repair cafes
-The surrounding areas also have repair cafes. There is a website listing them here [Greater Manchester Repair Cafes](https://repaircafesgm.org.uk/)
-
-## Map
-<a href="https://www.google.com/maps/d/u/0/edit?mid=12UsCec4ZaCXUas9fgQi5iMCyHrTSIdk&usp=sharing"><img width="822" alt="Map of Repair Cafes in Manchester" src="https://github.com/user-attachments/assets/d184f2ce-cdbe-405c-ba17-60fe625322dd"/></a>
+Sat 10th October  
 
 ## Photos from our repair cafe
 Here are some photos from our recent repair cafe sessions:
