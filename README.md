@@ -4,27 +4,22 @@
   <a href="mailto:chorltonrepaircafe@gmail.com" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
     <img src="images/envelope.svg" alt="email" width="26" height="26">
     <span>Email us</span>
-    <span aria-hidden="true">&#8594;</span>
   </a>
   <a href="https://www.facebook.com/ChorltonRepairCafe" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="facebook" width="26" height="26">
     <span>Facebook</span>
-    <span aria-hidden="true">&#8594;</span>
   </a>
   <a href="https://www.instagram.com/ChorltonRepairCafe" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="instagram" width="26" height="26">
     <span>Instagram</span>
-    <span aria-hidden="true">&#8594;</span>
   </a>
   <a href="https://wa.me/447362928476" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/whatsapp.svg" alt="whatsapp" width="26" height="26">
     <span>WhatsApp </span>
-    <span aria-hidden="true">&#8594;</span>
   </a>
   <a href="https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
     <img src="images/coins.svg" alt="donate" width="26" height="26">
     <span>Donate</span>
-    <span aria-hidden="true">&#8594;</span>
   </a>
 </div>
 
