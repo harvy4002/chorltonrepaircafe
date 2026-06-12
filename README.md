@@ -1,9 +1,34 @@
 # Chorlton Repair Cafe 
 
-<a href="mailto:chorltonrepaircafe@gmail.com"><img src="images/envelope.svg" alt="email" width="50" height="50"></a>
-<a href="https://www.facebook.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="facebook" width="50" height="50"></a>
-<a href="https://www.instagram.com/ChorltonRepairCafe"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="instagram" width="50" height="50"></a>
-<a href="https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2"><img src="images/coins.svg" alt="donate" width="50" height="50"></a>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0 24px;">
+  <a href="mailto:chorltonrepaircafe@gmail.com" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
+    <img src="images/envelope.svg" alt="email" width="26" height="26">
+    <span>Email us</span>
+    <span aria-hidden="true">&#8594;</span>
+  </a>
+  <a href="https://www.facebook.com/ChorltonRepairCafe" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/facebook.svg" alt="facebook" width="26" height="26">
+    <span>Facebook</span>
+    <span aria-hidden="true">&#8594;</span>
+  </a>
+  <a href="https://www.instagram.com/ChorltonRepairCafe" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/instagram.svg" alt="instagram" width="26" height="26">
+    <span>Instagram</span>
+    <span aria-hidden="true">&#8594;</span>
+  </a>
+  <a href="https://wa.me/447362928476" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/whatsapp.svg" alt="whatsapp" width="26" height="26">
+    <span>WhatsApp </span>
+    <span aria-hidden="true">&#8594;</span>
+  </a>
+  <a href="https://paymentrequest.natwestpayit.com/reusable-links/79608064-8a6c-4b47-a53e-e59e9ba4d0a2" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 2px solid #1f7a3a; border-radius: 999px; background: #f3fff6; color: #114d25; font-weight: 700; text-decoration: none;">
+    <img src="images/coins.svg" alt="donate" width="26" height="26">
+    <span>Donate</span>
+    <span aria-hidden="true">&#8594;</span>
+  </a>
+</div>
+
+
 ## What is a repair cafe
 A Repair Café is a friendly community space where people come together to fix broken items instead of throwing them away. Whether it's a small appliance, a piece of clothing, or a gadget, our volunteer repair experts can help you bring it back to life. Enjoy a cup of coffee, learn new skills, and help reduce waste—all for free!
 
