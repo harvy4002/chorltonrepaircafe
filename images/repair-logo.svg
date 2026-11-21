@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" role="img" aria-label="Repair tools">
+  <g fill="#114d25" transform="translate(1.8 1.8) scale(0.9)">
+    <!-- Screwdriver: handle top-left, tip bottom-right -->
+    <g transform="rotate(45 18 18)">
+      <rect x="15.5" y="2" width="5" height="11" rx="2"/>
+      <rect x="17" y="13" width="2" height="17"/>
+      <path d="M17 30 h2 l-0.4 3 h-1.2 z"/>
+    </g>
+    <!-- Wrench: jaw top-right, handle bottom-left -->
+    <g transform="rotate(-45 18 18)">
+      <path d="M14.2 3.2 A7 7 0 1 0 21.8 3.2 V8.5 L18 10.5 L14.2 8.5 Z"/>
+      <rect x="16" y="14" width="4" height="18" rx="2"/>
+    </g>
+  </g>
+</svg>

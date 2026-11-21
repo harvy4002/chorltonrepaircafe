@@ -1,0 +1,9 @@
+---
+---
+
+@import 'jekyll-theme-leap-day';
+
+/* Replace the theme's Octocat logo with a repair icon */
+#banner #logo {
+  background: url(../../images/repair-logo.svg) no-repeat center / contain;
+}
