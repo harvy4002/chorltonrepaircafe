@@ -41,9 +41,9 @@ Every session has a named Session Lead and a named First Aider, listed on the se
 | --- | --- | --- |
 | Health & Safety Leads | Harvinder Atwal and Mark Hobbs | Own this policy and the risk assessment; review incidents; keep the incident log; arrange the annual review |
 | Session Lead | Rotating – named each session | Runs the pre-session safety check; gives the volunteer briefing; knows fire exits and assembly point; makes the call to stop a repair or close an area; reports incidents |
-| First Aider | [Name(s)] | Holds the first aid kit; deals with injuries; records them in the accident book |
+| First Aider | Named each session on the sign-in sheet | Holds the first aid kit; deals with injuries; records them in the accident book |
 | Repair volunteers | All repairers | Work only within their competence; inspect items before starting; use tools and PPE correctly; keep their station tidy; refuse unsafe items; report hazards and near misses |
-| Welcome desk | [Name(s)] | Signs in visitors; explains the disclaimer and gets it signed; screens out refused items (section 4); manages queues and keeps walkways clear |
+| Welcome desk | Victoria, Fiona and Jayne | Signs in visitors; explains the disclaimer and gets it signed; screens out refused items (section 4); manages queues and keeps walkways clear |
 | Visitors | Everyone bringing items | Follow volunteer instructions; stay with their item; supervise their children; tell us about hazards (e.g. a damaged battery) |
 
 All volunteers have the right to stop any activity they believe is unsafe. Nobody will be criticised for stopping a repair on safety grounds.
@@ -89,7 +89,7 @@ Repairers only take on repairs they are competent and confident to do; "I don't 
 **Batteries**
 
 - Treat lithium-ion batteries as a fire risk. Do not puncture, crush, short or charge a swollen or damaged battery.
-- Place any swollen, hot or smoking battery in the [sand bucket / fire-safe container] and move it outdoors if safe to do so.
+- If a battery is swollen, hot or smoking, stop work, keep people back and, if it is safe to do so, move it outdoors onto a non-flammable surface away from the building. If it catches fire, evacuate and call 999.
 
 **Tools, heat and chemicals**
 
@@ -122,7 +122,7 @@ The Session Lead has the final say on whether an item is accepted.
 
 **Personal protective equipment (PPE)**
 
-We provide safety glasses, disposable gloves and [heat-resistant gloves / dust masks]. Volunteers must use PPE where the task needs it, and tell the Session Lead if any is missing.
+We provide safety glasses, disposable gloves and heat-resistant gloves. Volunteers must use PPE where the task needs it, and tell the Session Lead if any is missing.
 
 ## 5. First aid, incidents and emergencies
 
@@ -130,10 +130,10 @@ If someone is seriously hurt, call 999 first, then the First Aider. Every injury
 
 **First aid**
 
-- At least one volunteer with current first aid training is present at every session: [name(s), certificate expiry].
-- The first aid kit is kept at [location] and checked by the H&S Leads every [3 months].
+- At least one volunteer with current first aid training is present at every session, named on the sign-in sheet.
+- The first aid kit is kept at the welcome desk and checked by the H&S Leads every 3 months.
 - Contents include plasters, sterile dressings, burn gel or dressings, eyewash, gloves and a foil blanket.
-- The nearest defibrillator (AED) is at [location – to confirm].
+- The nearest defibrillator (AED) is at St Margaret's Centre. The Session Lead confirms where it is at set-up. If in doubt, call 999 and they will direct you to the nearest one.
 - For burns: cool under cool running water for 20 minutes. For electric shock: do not touch the person until the power is off.
 
 **Reporting accidents, incidents and near misses**
@@ -147,13 +147,13 @@ If someone is seriously hurt, call 999 first, then the First Aider. Every injury
 
 Never admit fault or promise compensation at the time of an incident; pass it to the H&S Leads. Any letter of claim must be acknowledged within 21 days and a copy of the letter and our reply sent to the insurer. Any court papers go straight to the insurer, unanswered.
 
-Records are stored securely by the H&S Leads and kept for at least [3 years], in line with insurance and data protection requirements.
+Records are stored securely by the H&S Leads and kept for at least 3 years, in line with insurance and data protection requirements.
 
 **Fire and evacuation**
 
 - On hearing the fire alarm, everyone stops work, switches off soldering irons if it is immediate and safe, and leaves by the nearest exit.
 - Do not stop to collect items or belongings.
-- The Session Lead takes the sign-in sheet to the assembly point at [location] and checks everyone is out.
+- The Session Lead takes the sign-in sheet to the assembly point in the car park and checks everyone is out.
 - Do not re-enter until the fire service or venue says it is safe.
 - Only tackle a small fire with an extinguisher if you are trained, it is safe, and your exit is behind you. For a battery fire, evacuate.
 
@@ -163,17 +163,17 @@ Records are stored securely by the H&S Leads and kept for at least [3 years], in
 | --- | --- |
 | Emergency services | 999 |
 | NHS non-urgent | 111 |
-| Venue contact | [Name, phone] |
-| H&S Leads | Harvinder Atwal / Mark Hobbs [phone numbers] |
-| Nearest A&E | Manchester Royal Infirmary or Wythenshawe Hospital [confirm] |
+| Venue contact | St Margaret's Centre – details held by the Session Lead |
+| H&S Leads | Harvinder Atwal / Mark Hobbs, via the cafe WhatsApp: 07362 928476 |
+| Nearest A&E | Manchester Royal Infirmary, Oxford Road, M13 9WL |
 
 ## 6. Safeguarding, insurance and training
 
 **Children and vulnerable adults**
 
-- We do not run activities for under-16s. Children who come with a parent or carer are supervised by them at all times, do not take part in repairs, and are kept away from soldering irons, hot air guns and tools.
+- We do not run activities for children. Anyone under 18 must come with a responsible adult, who supervises them at all times. Children do not take part in repairs, and are kept away from soldering irons, hot air guns and tools.
 - Volunteers are never left alone with a child or vulnerable adult. Our liability insurance excludes claims arising from abuse, so these rules protect both visitors and the cafe.
-- Any safeguarding concern goes to the Safeguarding Lead: [name].
+- Any safeguarding concern goes to the H&S Leads.
 
 **Visitor disclaimer**
 
