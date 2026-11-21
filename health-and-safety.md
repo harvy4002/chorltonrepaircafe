@@ -163,7 +163,7 @@ Records are stored securely by the H&S Leads and kept for at least 3 years, in l
 | --- | --- |
 | Emergency services | 999 |
 | NHS non-urgent | 111 |
-| Venue contact | St Margaret's Centre – details held by the Session Lead |
+| Venue contact | St Margaret's Centre booking contact – details held on the Session Lead's phone |
 | H&S Leads | Harvinder Atwal / Mark Hobbs, via the cafe WhatsApp: 07362 928476 |
 | Nearest A&E | Manchester Royal Infirmary, Oxford Road, M13 9WL |
 
