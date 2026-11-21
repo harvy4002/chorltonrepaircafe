@@ -9,7 +9,7 @@ permalink: /health-and-safety/
 
 [Back to home](/)
 
-**Volunteers:** once you've read this policy, please confirm you've read it using the form [at the end of this page](#volunteer-acknowledgement).
+**Volunteers:** once you've read this policy, please [confirm you've read it](https://docs.google.com/forms/d/e/1FAIpQLSf6G5az2TrZbjaM5V1wjWOH8nAW0qRCdxeTzjGLkOYT0BKRAw/viewform).
 
 ## 1. Policy statement and scope
 
@@ -210,4 +210,4 @@ The H&S Leads review this policy every 12 months, and after any serious incident
 
 All volunteers must confirm they have read and understood this policy, and confirm again after each annual review. This is a condition of our insurance.
 
-**Confirmation form: link coming soon.** It takes 30 seconds and records your name, the date and the policy version. The H&S Leads check the responses before each session.
+**[Confirm you've read the policy](https://docs.google.com/forms/d/e/1FAIpQLSf6G5az2TrZbjaM5V1wjWOH8nAW0qRCdxeTzjGLkOYT0BKRAw/viewform)** – it takes 30 seconds and records your name, the date and the policy version. The H&S Leads check the responses before each session.

@@ -49,6 +49,7 @@ Here are some photos from our recent repair cafe sessions:
 ## Volunteer Area
 A section of useful links for volunteers  
 [Health & Safety Policy](health-and-safety/)  
+[Confirm you've read the H&S policy](https://docs.google.com/forms/d/e/1FAIpQLSf6G5az2TrZbjaM5V1wjWOH8nAW0qRCdxeTzjGLkOYT0BKRAw/viewform)  
 [Request equipment](https://docs.google.com/forms/d/e/1FAIpQLSf2jHupj9Mkbn7sAeEWeVpSFq8k2gEWA8VpugQOtgPU2unvUA/viewform?usp=dialog)  
 [Sign out repair](https://docs.google.com/forms/d/e/1FAIpQLSdtTokbJxfZ_nQXuE32kcNeX8_-BXOmixyYRvb2rqa4V6uxtg/viewform?usp=dialog)  
 
