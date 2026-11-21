@@ -114,6 +114,7 @@ Repairers only take on repairs they are competent and confident to do; "I don't 
 | Microwave ovens | Lethal high-voltage capacitor |
 | CRT TVs and monitors | Lethal stored charge |
 | E-bikes and e-scooters (any part), and swollen or damaged lithium batteries | Not covered by our insurance; fire risk |
+| Mobile phones | Too time-consuming to repair in a session |
 | Items that are dirty with food, mould, bodily fluids or pest infestation | Hygiene |
 | Medical devices and safety-critical items (helmets, car seats, smoke alarms) | Liability and life safety |
 | Firearms, weapons, or anything the Session Lead judges unsafe | Safety |
